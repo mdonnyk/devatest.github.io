@@ -3464,8 +3464,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #cce2e2;
-				background-image: linear-gradient(to top, #cce2e2, #cce2e2), url("../../images/bg.jpg");
+				background-color: #1c949c;
 				background-size: auto,
  cover;
 				background-position: center,
